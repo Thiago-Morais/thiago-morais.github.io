@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-05-12T02:21:24+00:00</lastmod>
+		<lastmod>2025-05-13T18:32:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/Box-Art.png</image:loc>
 		</image:image>
@@ -18,15 +18,14 @@
 	</url>
 	<url>
 		<loc>/about/</loc>
-		<lastmod>2025-05-11T19:02:58+00:00</lastmod>
+		<lastmod>2025-05-13T18:32:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/square-1.png</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>/contact/</loc>
-		<lastmod>2025-05-11T19:03:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/our-games/</loc>
-		<lastmod>2025-05-12T02:28:29+00:00</lastmod>
+		<loc>/games/</loc>
+		<lastmod>2025-05-13T18:32:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/05/Quantum-Strike-Cover-Art-Itch.png</image:loc>
 		</image:image>
@@ -35,6 +34,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/plugins/super-blank/assets/images/square.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contact/</loc>
+		<lastmod>2025-05-13T18:34:59+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/map.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
